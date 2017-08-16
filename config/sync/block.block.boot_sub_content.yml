@@ -1,0 +1,22 @@
+uuid: 93bbacb5-d3e0-46ef-8f6a-b802f5b38a8b
+langcode: en
+status: true
+dependencies:
+  module:
+    - system
+  theme:
+    - boot_sub
+_core:
+  default_config_hash: fNNLN48MSGSLiqwIFywCuxH2Dk_IxDbaP0kYhg_IPrg
+id: boot_sub_content
+theme: boot_sub
+region: content
+weight: 0
+provider: null
+plugin: system_main_block
+settings:
+  id: system_main_block
+  label: 'Main page content'
+  provider: system
+  label_display: '0'
+visibility: {  }
