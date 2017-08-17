@@ -24,6 +24,7 @@
         "drupal/bootstrap": "^3.5",
         "drupal/bulma": "^1.0@alpha",
         "drupal/coffee": "^1.0@beta",
+        "drupal/config_installer": "^1.4",
         "drupal/console": "~1.0",
         "drupal/core": "~8.0",
         "drupal/field_formatter_class": "^1.0",
