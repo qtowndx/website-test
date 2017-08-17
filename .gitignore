@@ -3,12 +3,12 @@
 /vendor/
 /web/core/
 /web/modules/contrib/
-/web/themes/contrib/
+/web/themes/contrib/bootstrap/
+/web/themes/contrib/bulma/
 /web/profiles/contrib/
 /web/libraries/
 
-#Add custom directory
-!/web/themes/contrib/custom/
+
 
 # Ignore sensitive information
 /web/sites/*/settings.php
